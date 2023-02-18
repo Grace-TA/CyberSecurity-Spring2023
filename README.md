@@ -1,2 +1,6 @@
-# CyberSecurity-Spring2023
-網路時代人人要學的資安基礎必修課 (How Cybersecurity Really Works)
+# 網路安全與實習 (CyberSecurity and Practice)
+
+## How Cybersecurity Really Works: A Hands-On Guide for Total Beginners
+
+![image](https://user-images.githubusercontent.com/89304181/219853399-62a211b4-c8f5-4b2e-a445-0161e357255a.png)
+
