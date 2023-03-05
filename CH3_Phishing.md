@@ -25,6 +25,19 @@
 
 ## B. 參考實戰攻略: 請到Gmail Box找三封不同來源的e-mail, 找出其Head Analysis & Headers Found, 並將結果更新於GitHub
 
+### e-mail 1: smtp3.net.nthu.edu.tw
+
+![image](https://user-images.githubusercontent.com/89304181/222948235-61996ae4-28b0-4f86-9e46-3565fa89ae73.png)
+
+### e-mail 2: mx.google.com
+
+![image](https://user-images.githubusercontent.com/89304181/222948379-d8b5331b-502e-4e01-9ef0-292a8348a558.png)
+
+### e-mail 3: 
+
+![image](https://user-images.githubusercontent.com/89304181/222948502-7bb80d79-a69f-43c1-9db1-5720da9ff61a.png)
 
 ## C. 參考實戰攻略: 請用三個不同URL, 用Virustotal測試一下, 並將結果更新於GitHub
+
+
 
