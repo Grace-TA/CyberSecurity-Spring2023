@@ -39,5 +39,19 @@
 
 ## C. 參考實戰攻略: 請用三個不同URL, 用Virustotal測試一下, 並將結果更新於GitHub
 
+### www.yahoo.com.tw
+
+![image](https://user-images.githubusercontent.com/89304181/224529267-d3c46927-1c1d-42dd-b6f1-51f3685cefb0.png)
+
+### www.vnu.edu.tw
+
+![image](https://user-images.githubusercontent.com/89304181/224529325-438a0ec4-0a24-4804-9b18-d3a2926628c5.png)
+
+### yt118.com/
+
+![image](https://user-images.githubusercontent.com/89304181/224529436-98caa352-a539-4717-8b8a-03c9cf5ad2aa.png)
+
+
+
 
 
