@@ -47,7 +47,7 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/224529325-438a0ec4-0a24-4804-9b18-d3a2926628c5.png)
 
-### yt118.com/
+### yt118.com
 
 ![image](https://user-images.githubusercontent.com/89304181/224529436-98caa352-a539-4717-8b8a-03c9cf5ad2aa.png)
 
