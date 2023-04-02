@@ -15,10 +15,17 @@ https://phishingquiz.withgoogle.com/?hl=zh-TW
 
 ## 實戰2: Python快速回顧，並應用於身份驗證的基本概念和實作
 
+### A. Python快速回顧
 
+![image](https://user-images.githubusercontent.com/89304181/229340188-27a98add-b5cf-419b-a98c-197ebf0bec1c.png)
 
+### B. 身份驗證的基本概念和實作方式
+
+![image](https://user-images.githubusercontent.com/89304181/229340228-53121709-3117-4a8a-90d0-79e7e24a35e8.png)
+
+![image](https://user-images.githubusercontent.com/89304181/229340231-0276ea9a-f7cc-42cc-b69f-21c84a20d0b8.png)
 
 ## 實戰3: Python程式說明與實作 - 密碼管理, 權限控制, 檢測網路攻擊指標, 審計日誌, 資料加密
 
-
+Undergoing ...
 
