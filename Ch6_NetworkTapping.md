@@ -4,10 +4,11 @@
 ---
 
 ## 目錄(Table of Contents)
-[實戰1: 試介紹本章介紹的技術名詞與功用: 網路監聽, MAC地址, DNS, 阻斷服務攻擊（DoS）, 非軍事區 (DMZ), 防火牆 (Firewalls), 入侵檢測系統 (IDS), 入侵防禦系統 (IPS) ](#111)
+[實戰1: 試介紹本章介紹的技術名詞與功用: 網路監聽, MAC地址, DNS, DoS, DMZ, Firewalls, IDS, IPS](#111)
+
 [實戰2: 設置防火牆 (Setting Up Your Firewall) ](#222)
 
-
+---
 
 <a name="111"/>
 ## 實戰1: 試介紹本章介紹的技術名詞與功用
