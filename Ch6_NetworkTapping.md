@@ -121,6 +121,22 @@ IPS 可以檢測來自未經授權的來源的連接嘗試，如駭客或內部�
 
 ## 實戰2: 設置防火牆 (Setting Up Your Firewall) 
 
+### 1. Win10: 請檢查您的防火牆設定，並確認目前設定是否開啟?並確認開啟下的設定的細節.
+
+![image](https://github.com/Grace-TA/CyberSecurity-Spring2023/assets/89304181/21b09708-7036-447f-a1f7-9dc5bf34f825)
+
+![image](https://github.com/Grace-TA/CyberSecurity-Spring2023/assets/89304181/808422a6-9066-4239-ab45-63e8b555c1b5)
+
+![image](https://github.com/Grace-TA/CyberSecurity-Spring2023/assets/89304181/0bb84ef2-715a-4ce8-bef1-f3f0568ab1d3)
+
+![image](https://github.com/Grace-TA/CyberSecurity-Spring2023/assets/89304181/e240f0a6-6cc7-4431-ad3b-629ef837541f)
+
+![image](https://github.com/Grace-TA/CyberSecurity-Spring2023/assets/89304181/d829a437-b378-4b59-9160-920faa0daedf)
+
+
+### Linux Ubuntu: 如何安裝防火牆並檢查狀態?
+
+![image](https://github.com/Grace-TA/CyberSecurity-Spring2023/assets/89304181/8a468eef-56bb-483d-92b2-e9fcc74bdcf7)
 
 [return to content](#000) 
 
