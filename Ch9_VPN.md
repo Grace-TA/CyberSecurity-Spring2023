@@ -8,7 +8,7 @@
 
 2. 免費VPN節點, [https://www.freedidi.com/2690.html](https://www.vpnbook.com/freevpn)
 
-OpenVPN is the best and most recommended open-source VPN software world-wide. It is the most secure VPN option. You need to download the open-source OpenVPN Client and our configuration and certificate bundle from the links below (use TCP if you cannot connect to UDP due to network restriction).
+OpenVPN 是全球最好和最受推薦的開源 VPN 軟件。 這是最安全的 VPN 選項。 您需要從下面的鏈接下載開源的 OpenVPN Client 和我們的配置和證書包（如果由於網絡限制無法連接到 UDP，請使用 TCP）。
 
 OpenVPN config updated on 2023/02/24. Download new bundles below:
 PL226 OpenVPN Bundle
