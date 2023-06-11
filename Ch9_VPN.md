@@ -1,7 +1,7 @@
 # 第9章 黑帽駭客 (Black Hats)? 又該如何抵擋 (How To Defeact)? VPN? Plan
 
 ## 實戰: C1 快速而輕鬆地確定您的 IP 位址的工具, C2. MS-Windows下載安裝OpenVPN 服務端, and use it!
-
+1.檢查你的原始IP； 2、安裝OpenVPN； 3. 選擇您的 VPN 服務器， 4. 啟用 VPN 並再次檢查 IP
 ![image](https://github.com/Grace-TA/CyberSecurity-Spring2023/assets/89304181/47ee7460-3cd8-4881-8196-6eea8b6070a3)
 
 1. OpenVPN Connect for Windows, https://openvpn.net/client/client-connect-vpn-for-windows/
